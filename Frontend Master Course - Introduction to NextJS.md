@@ -8,8 +8,8 @@ modified: '2023-08-27T11:10:09.796Z'
 
 # Frontend Master Course - Introduction to NextJS
 
-## <div style="color:green">More Markdown</div>
+## <div style="color:goldenrod">Introduction</div>
 
-- A
-- B
+- Introduction 00:00:00 - 00:08:45
+- 
 
